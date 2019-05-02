@@ -1,0 +1,1 @@
+# SotolitoOS CentOS Based Appliance
